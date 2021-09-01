@@ -1,0 +1,54 @@
+/* Notice */
+
+.wpcstore-notice {
+    padding: 12px !important;
+    display: flex;
+    align-items: center;
+}
+
+.wpcstore-notice .wpcstore-notice-thumbnail {
+    text-align: center;
+    position: relative;
+    display: block;
+    margin-right: 10px;
+    width: 20%;
+    flex: 0 0 20%;
+}
+
+.wpcstore-notice .wpcstore-notice-thumbnail a {
+    display: block;
+    outline: none;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.wpcstore-notice .wpcstore-notice-thumbnail img {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+.wpcstore-notice .wpcstore-notice-ul {
+    margin-bottom: 0;
+}
+
+.wpcstore-notice .wpcstore-notice-ul li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+.wpcstore-notice .wpcstore-notice-ul li a {
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.wpcstore-notice .wpcstore-notice-text h3 {
+    margin: 0 0 10px 0;
+    font-weight: 700;
+}
+
+.wpcstore-notice .wpcstore-notice-text p {
+    font-size: 14px;
+}
